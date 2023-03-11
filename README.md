@@ -7,5 +7,4 @@
 - 💬 Ask me about git,github,Linux,aws,SonarQube,docker,jenkins,kubernetes.
 - 📫 How to reach me:anveshreddy5256@gmail.com
 - ⚡ Fun fact: ...
--
 
