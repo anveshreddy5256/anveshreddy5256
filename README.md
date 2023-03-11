@@ -1,4 +1,4 @@
-                                                   Hi 👋 I'm Anvesh Reddy Mekala.
+                                             Hi 👋 I'm Anvesh Reddy Mekala.
 
 - 🔭 I’m currently working on  DevOps Project using git, github, AWS, linux, Jenkins, SonarQube, Trivy, Ansible and Docker,k8s.
 - 🌱 I’m currently learning Devops
