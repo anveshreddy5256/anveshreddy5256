@@ -9,4 +9,3 @@
 - 📫 How to reach me:anveshreddy5256@gmail.com
 - ⚡ Fun fact: ...
 
-![This is an image](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png))
